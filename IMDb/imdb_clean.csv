@@ -1,0 +1,251 @@
+ranking,title,year,duration (in Min),restriction,rating,votes (in M)
+1,The Shawshank Redemption,1994,142,15,9.3,3.1
+2,The Godfather,1972,175,15,9.2,2.1
+3,The Dark Knight,2008,152,12A,9.0,3.0
+4,The Godfather Part II,1974,202,X,9.0,1.4
+5,12 Angry Men,1957,96,U,9.0,0.931
+6,The Lord of the Rings: The Return of the King,2003,201,12A,9.0,2.1
+7,Schindler's List,1993,195,15,9.0,1.5
+8,Pulp Fiction,1994,154,18,8.8,2.3
+9,The Lord of the Rings: The Fellowship of the Ring,2001,178,PG,8.9,2.1
+10,"The Good, the Bad and the Ugly",1966,148,18,8.8,0.858
+11,Forrest Gump,1994,142,12,8.8,2.4
+12,The Lord of the Rings: The Two Towers,2002,179,12A,8.8,1.9
+13,Fight Club,1999,139,15,8.8,2.5
+14,Inception,2010,148,12A,8.8,2.7
+15,Star Wars: Episode V - The Empire Strikes Back,1980,124,U,8.7,1.4
+16,The Matrix,1999,136,15,8.7,2.2
+17,GoodFellas,1990,145,18,8.7,1.3
+18,Interstellar,2014,169,12A,8.7,2.4
+19,One Flew Over the Cuckoo's Nest,1975,133,X,8.7,1.1
+20,Seven,1995,127,18,8.6,1.9
+21,It's a Wonderful Life,1946,130,U,8.6,0.529
+22,The Silence of the Lambs,1991,118,18,8.6,1.6
+23,Seven Samurai,1954,207,A,8.6,0.386
+24,Saving Private Ryan,1998,169,15,8.6,1.6
+25,City of God,2002,130,18,8.6,0.84
+26,The Green Mile,1999,189,18,8.6,1.5
+27,Life Is Beautiful,1997,116,PG,8.6,0.781
+28,Terminator 2: Judgment Day,1991,137,15,8.6,1.2
+29,Star Wars: Episode IV - A New Hope,1977,121,U,8.6,1.5
+30,Back to the Future,1985,116,PG,8.5,1.4
+31,Spirited Away,2001,124,PG,8.6,0.915
+32,The Pianist,2002,150,15,8.5,0.971
+33,Gladiator,2000,155,15,8.5,1.8
+34,Parasite,2019,132,15,8.5,1.1
+35,Psycho,1960,109,15,8.5,0.755
+36,The Lion King,1994,88,U,8.5,1.2
+37,Grave of the Fireflies,1988,88,12A,8.5,0.352
+38,The Departed,2006,151,18,8.5,1.5
+39,Whiplash,2014,106,15,8.5,1.1
+40,Harakiri,1962,133,X,8.6,0.081
+41,The Prestige,2006,130,12A,8.5,1.5
+42,American History X,1998,119,18,8.5,1.2
+43,Leon,1994,110,18,8.5,1.3
+44,Spider-Man: Across the Spider-Verse,2023,140,PG,8.5,0.461
+45,Casablanca,1942,102,U,8.5,0.634
+46,The Usual Suspects,1995,106,18,8.5,1.2
+47,Cinema Paradiso,1988,174,PG,8.5,0.303
+48,Untouchable,2011,112,15,8.5,0.982
+49,Alien,1979,117,X,8.5,1.0
+50,Modern Times,1936,87,U,8.5,0.274
+51,Rear Window,1954,112,A,8.5,0.549
+52,Once Upon a Time in the West,1968,166,12,8.5,0.37
+53,Django Unchained,2012,165,18,8.5,1.8
+54,City Lights,1931,87,U,8.5,0.208
+55,Apocalypse Now,1979,147,X,8.4,0.744
+56,WALL·E,2008,98,U,8.4,1.3
+57,Dune: Part Two,2024,166,12A,8.5,0.639
+58,Memento,2000,113,15,8.4,1.4
+59,Raiders of the Lost Ark,1981,115,A,8.4,1.1
+60,The Lives of Others,2006,137,15,8.4,0.429
+61,Avengers: Infinity War,2018,149,12A,8.4,1.3
+62,Sunset Blvd.,1950,110,PG,8.4,0.25
+63,Spider-Man: Into the Spider-Verse,2018,117,PG,8.4,0.735
+64,Witness for the Prosecution,1957,116,U,8.4,0.151
+65,Paths of Glory,1957,88,PG,8.4,0.227
+66,The Shining,1980,146,X,8.4,1.2
+67,The Great Dictator,1940,125,U,8.4,0.25
+68,12th Fail,2023,147,12A,8.7,0.15
+69,Inglourious Basterds,2009,153,18,8.4,1.7
+70,Aliens,1986,137,18,8.4,0.811
+71,The Dark Knight Rises,2012,164,12A,8.4,1.9
+72,Coco,2017,105,PG,8.4,0.654
+73,Amadeus,1984,160,PG,8.4,0.45
+74,Toy Story,1995,81,PG,8.3,1.1
+75,Avengers: Endgame,2019,181,12A,8.4,1.4
+76,Good Will Hunting,1997,126,15,8.3,1.1
+77,Oldboy,2003,120,18,8.3,0.682
+78,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,A,8.3,0.539
+79,Das Boot,1981,149,AA,8.4,0.28
+80,Braveheart,1995,178,15,8.3,1.1
+81,American Beauty,1999,122,18,8.3,1.3
+82,High and Low,1963,143,12,8.4,0.061
+83,Princess Mononoke,1997,133,PG,8.3,0.462
+84,Your Name.,2016,106,12A,8.4,0.36
+85,3 Idiots,2009,170,12A,8.4,0.461
+86,Joker,2019,122,15,8.3,1.6
+87,Once Upon a Time in America,1984,229,18,8.3,0.396
+88,Capernaum,2018,126,15,8.4,0.117
+89,Singin' in the Rain,1952,103,U,8.3,0.273
+90,Come and See,1985,142,15,8.3,0.113
+91,Requiem for a Dream,2000,102,18,8.3,0.942
+92,Star Wars: Episode VI - Return of the Jedi,1983,131,U,8.3,1.2
+93,Toy Story 3,2010,103,U,8.3,0.935
+94,The Hunt,2012,115,15,8.3,0.39
+95,Ikiru,1952,143,A,8.3,0.097
+96,Eternal Sunshine of the Spotless Mind,2004,108,15,8.3,1.1
+97,2001: A Space Odyssey,1968,149,U,8.3,0.756
+98,Incendies,2010,131,15,8.3,0.23
+99,The Apartment,1960,125,A,8.3,0.209
+100,Reservoir Dogs,1992,99,18,8.3,1.1
+101,Lawrence of Arabia,1962,227,PG,8.3,0.33
+102,The Chaos Class Failed the Class,1975,95,none,8.7,0.027
+103,Scarface,1983,170,18,8.3,0.97
+104,Double Indemnity,1944,107,A,8.3,0.175
+105,Heat,1995,170,15,8.3,0.761
+106,North by Northwest,1959,136,A,8.3,0.361
+107,Up,2009,96,U,8.3,1.2
+108,Citizen Kane,1941,119,A,8.3,0.483
+109,M,1931,117,A,8.3,0.178
+110,Full Metal Jacket,1987,116,18,8.2,0.824
+111,Vertigo,1958,128,A,8.2,0.446
+112,Amélie,2001,122,15,8.3,0.82
+113,A Separation,2011,123,PG,8.3,0.27
+114,Like Stars on Earth,2007,162,PG,8.3,0.219
+115,To Kill a Mockingbird,1962,129,A,8.3,0.344
+116,Die Hard,1988,132,18,8.2,0.993
+117,A Clockwork Orange,1971,136,X,8.2,0.914
+118,The Sting,1973,129,A,8.2,0.291
+119,Indiana Jones and the Last Crusade,1989,127,PG,8.2,0.841
+120,Oppenheimer,2023,180,15,8.3,0.899
+121,Metropolis,1927,153,A,8.3,0.195
+122,Snatch,2000,104,18,8.2,0.949
+123,1917,2019,119,15,8.2,0.732
+124,L.A. Confidential,1997,138,18,8.2,0.643
+125,Bicycle Thieves,1948,89,U,8.2,0.186
+126,Downfall,2004,156,15,8.2,0.39
+127,Dangal,2016,161,PG,8.3,0.227
+128,The Wolf of Wall Street,2013,180,18,8.2,1.7
+129,Hamilton,2020,160,12,8.3,0.129
+130,Taxi Driver,1976,114,18,8.2,0.982
+131,Green Book,2018,130,12A,8.2,0.64
+132,Batman Begins,2005,140,12A,8.2,1.7
+133,The Truman Show,1998,103,PG,8.2,1.3
+134,For a Few Dollars More,1965,132,15,8.2,0.29
+135,Judgment at Nuremberg,1961,179,A,8.3,0.092
+136,Some Like It Hot,1959,121,A,8.2,0.296
+137,Shutter Island,2010,138,15,8.2,1.6
+138,The Kid,1921,68,U,8.2,0.142
+139,The Father,2020,97,12A,8.2,0.214
+140,All About Eve,1950,138,A,8.2,0.145
+141,Jurassic Park,1993,127,PG,8.2,1.1
+142,There Will Be Blood,2007,158,12A,8.2,0.673
+143,The Sixth Sense,1999,107,15,8.2,1.1
+144,Casino,1995,178,18,8.2,0.595
+145,Ran,1985,160,15,8.2,0.145
+146,Top Gun: Maverick,2022,130,12A,8.2,0.782
+147,No Country for Old Men,2007,122,15,8.2,1.1
+148,The Thing,1982,109,X,8.2,0.501
+149,Pan's Labyrinth,2006,118,15,8.2,0.727
+150,Unforgiven,1992,130,15,8.2,0.456
+151,Kill Bill: Vol. 1,2003,111,18,8.2,1.3
+152,A Beautiful Mind,2001,135,12,8.2,1.0
+153,The Treasure of the Sierra Madre,1948,126,A,8.2,0.138
+154,Prisoners,2013,153,15,8.2,0.876
+155,Yojimbo,1961,110,A,8.2,0.138
+156,Finding Nemo,2003,100,U,8.2,1.2
+157,Howl's Moving Castle,2004,119,U,8.2,0.486
+158,The Great Escape,1963,172,PG,8.2,0.27
+159,Monty Python and the Holy Grail,1975,91,12A,8.2,0.589
+160,The Elephant Man,1980,124,AA,8.2,0.274
+161,Dial M for Murder,1954,105,PG,8.2,0.199
+162,Klaus,2019,96,PG,8.2,0.216
+163,Gone with the Wind,1939,238,PG,8.2,0.348
+164,Chinatown,1974,130,X,8.1,0.366
+165,Rashomon,1950,88,X,8.2,0.19
+166,The Secret in Their Eyes,2009,129,18,8.2,0.234
+167,"Lock, Stock and Two Smoking Barrels",1998,107,18,8.1,0.636
+168,V for Vendetta,2005,132,15,8.1,1.2
+169,Inside Out,2015,95,U,8.1,0.871
+170,"Three Billboards Outside Ebbing, Missouri",2017,115,15,8.1,0.585
+171,The Bridge on the River Kwai,1957,161,U,8.1,0.243
+172,Catch Me If You Can,2002,141,12A,8.1,1.2
+173,Trainspotting,1996,93,18,8.1,0.751
+174,Raging Bull,1980,129,X,8.1,0.397
+175,The Wild Robot,2024,102,U,8.2,0.178
+176,Fargo,1996,98,18,8.1,0.759
+177,Warrior,2011,140,12A,8.1,0.516
+178,Harry Potter and the Deathly Hallows: Part 2,2011,130,12A,8.1,1.0
+179,Gran Torino,2008,116,15,8.1,0.841
+180,Million Dollar Baby,2004,132,12A,8.1,0.748
+181,Ben-Hur,1959,212,A,8.1,0.264
+182,Mad Max: Fury Road,2015,120,15,8.1,1.2
+183,My Neighbour Totoro,1988,86,U,8.1,0.41
+184,Barry Lyndon,1975,185,A,8.1,0.194
+185,Dead Poets Society,1989,128,PG,8.1,0.594
+186,Spider-Man: No Way Home,2021,148,12A,8.2,0.957
+187,Children of Heaven,1997,89,PG,8.2,0.086
+188,12 Years a Slave,2013,134,15,8.1,0.766
+189,Hacksaw Ridge,2016,139,15,8.1,0.64
+190,The Grand Budapest Hotel,2014,99,15,8.1,0.93
+191,Before Sunrise,1995,101,15,8.1,0.361
+192,Blade Runner,1982,117,AA,8.1,0.856
+193,Memories of Murder,2003,131,15,8.1,0.243
+194,Gone Girl,2014,149,18,8.1,1.1
+195,Ratatouille,2007,111,U,8.1,0.89
+196,"Monsters, Inc.",2001,92,U,8.1,1.0
+197,In the Name of the Father,1993,133,15,8.1,0.197
+198,How to Train Your Dragon,2010,98,PG,8.1,0.849
+199,Wild Tales,2014,122,15,8.1,0.23
+200,The Gold Rush,1925,95,U,8.1,0.124
+201,Jaws,1975,124,A,8.1,0.697
+202,Sherlock Jr.,1924,45,U,8.2,0.062
+203,Mary and Max,2009,92,12A,8.1,0.197
+204,Le Mans '66,2019,152,12A,8.1,0.526
+205,The Deer Hunter,1978,183,X,8.1,0.377
+206,The Wages of Fear,1953,156,A,8.1,0.071
+207,The General,1926,78,U,8.1,0.103
+208,Mr. Smith Goes to Washington,1939,129,U,8.1,0.126
+209,On the Waterfront,1954,108,A,8.1,0.173
+210,Logan,2017,137,15,8.1,0.893
+211,Wild Strawberries,1957,92,A,8.1,0.121
+212,Rocky,1976,120,A,8.1,0.662
+213,The Third Man,1949,104,A,8.1,0.19
+214,Tokyo Story,1953,137,U,8.1,0.074
+215,Spotlight,2015,129,15,8.1,0.52
+216,The Big Lebowski,1998,117,18,8.1,0.893
+217,The Terminator,1984,107,18,8.1,0.968
+218,Maharaja,2024,141,15,8.4,0.07
+219,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,12A,8.1,1.3
+220,The Seventh Seal,1957,96,X,8.1,0.209
+221,Room,2015,118,15,8.1,0.469
+222,La haine,1995,98,15,8.1,0.213
+223,Jai Bhim,2021,164,Not Rated,8.6,0.227
+224,Hotel Rwanda,2004,121,12A,8.1,0.385
+225,Platoon,1986,120,15,8.1,0.457
+226,The Best Years of Our Lives,1946,170,U,8.1,0.075
+227,Before Sunset,2004,80,15,8.1,0.303
+228,The Exorcist,1973,122,X,8.1,0.479
+229,The Sound of Music,1965,172,U,8.1,0.278
+230,The Incredibles,2004,115,U,8.0,0.859
+231,The Wizard of Oz,1939,102,A,8.1,0.452
+232,The Passion of Joan of Arc,1928,110,A,8.1,0.065
+233,Hachi: A Dog's Tale,2009,93,U,8.1,0.33
+234,Rush,2013,123,15,8.1,0.536
+235,Stand by Me,1986,89,15,8.1,0.466
+236,My Father and My Son,2005,112,PG,8.2,0.098
+237,Network,1976,121,AA,8.1,0.18
+238,The Iron Giant,1999,86,U,8.1,0.246
+239,I'm Still Here,2024,137,15,8.2,0.112
+240,A Silent Voice,2016,130,12A,8.1,0.122
+241,The Handmaiden,2016,145,18,8.1,0.189
+242,The Battle of Algiers,1966,121,X,8.1,0.071
+243,To Be or Not to Be,1942,99,U,8.1,0.047
+244,The Grapes of Wrath,1940,129,A,8.1,0.105
+245,Into the Wild,2007,148,15,8.0,0.681
+246,Groundhog Day,1993,101,PG,8.0,0.719
+247,The Help,2011,146,12A,8.1,0.514
+248,Autumn Sonata,1978,92,AA,8.1,0.04
+249,Amores perros,2000,154,18,8.0,0.268
+250,Drishyam,2015,163,12A,8.2,0.102
