@@ -1,0 +1,58 @@
+keyword,location,page,position,company,companyRating,companyReviewCount,jobkey,jobTitle,jobLocationCity,jobLocationPostal,jobLocationState,pubDate
+Data Scientist,Hamburg,1,0,Carnival Maritime,4.1,2602,780ca058e7e0ba9a,Data Scientist Energy Efficiency (f/m/d),Hamburg,,HH,1741669200000
+Data Scientist,Hamburg,1,1,DAK-Gesundheit,3.9,9,e439a51b3bb5de2b,Data Scientist mit dem Schwerpunkt KI-Transformation und Governance (m/w/d),Hamburg,20097,HH,1749099600000
+Data Scientist,Hamburg,1,2,Ayvens,3.6,567,7882a9c549494fe1,Data Scientist (w/m/d),Hamburg,,HH,1750741200000
+Data Scientist,Hamburg,1,3,bonprix,3.8,20,78082833f9a79623,Data Scientist (m/w/d) Experimentation,Hamburg,22179,HH,1750741200000
+Data Scientist,Hamburg,1,4,Otto GmbH & Co. KGaA,3.7,35,f2d4b0034dd74b89,Data Scientist (w/m/d),Hamburg,,HH,1741154400000
+Data Scientist,Hamburg,1,5,emetriq GmbH,5,2,0823dec003b91690,Data Scientist (m/w/d),Hamburg,,HH,1747717200000
+Data Scientist,Hamburg,1,6,bonprix,3.8,20,4fca3f039d1faa8b,Expert Data Scientist (m/w/d),Hamburg,22179,HH,1746766800000
+Data Scientist,Hamburg,1,7,Adobe,4.3,855,1f92a30a5cde2796,Senior Data Scientist,Hamburg,22767,HH,1745989200000
+Data Scientist,Hamburg,1,8,AppLike GmbH,4.5,2,63838c3b95cc0dae,Senior Data Scientist (f/m/d),Hamburg,,HH,1737007200000
+Data Scientist,Hamburg,1,9,Starship Technologies,0,0,2b870f5cdb02fbac,"Senior Data Analyst (Germany, Remote)",Hamburg,20259,HH,1744866000000
+Data Scientist,Hamburg,1,10,DAK-Gesundheit,3.9,9,3921ea8c9e02cf86,Data Scientist mit dem Schwerpunkt DevOps (m/w/d),Hamburg,20097,HH,1749531600000
+Data Scientist,Hamburg,1,11,Siemens,4,11281,267188a24784892c,Senior Data Scientist (w/m/d),Hamburg,,HH,1750654800000
+Data Scientist,Hamburg,1,12,Siemens,4,11281,eb3ae11a01703485,Senior Data Scientist (w/m/d),Hamburg,,HH,1750136400000
+Data Scientist,Hamburg,1,13,Deloitte GmbH,3.9,13807,2776053131f60f60,Senior Consultant Data/Cloud Analytics / Regulatory (m/w/d),Hamburg,,HH,1747803600000
+Data Scientist,Hamburg,1,14,E.ON Digital Technology GmbH,3.5,822,359ebcc78fd45edc,Senior Data & AI Consultant (f/m/d),Hamburg,20457,HH,1747630800000
+Data Scientist,Hamburg,3,0,Siemens,4,11281,eb3ae11a01703485,Senior Data Scientist (w/m/d),Hamburg,,HH,1750136400000
+Data Scientist,Hamburg,3,1,Deloitte GmbH,3.9,13807,2776053131f60f60,Senior Consultant Data/Cloud Analytics / Regulatory (m/w/d),Hamburg,,HH,1747803600000
+Data Scientist,Hamburg,3,2,E.ON Digital Technology GmbH,3.5,822,359ebcc78fd45edc,Senior Data & AI Consultant (f/m/d),Hamburg,20457,HH,1747630800000
+Data Scientist,Hamburg,3,3,HDI Deutschland,0,0,4f2a211519ad5e4c,Leiter:in Produkttechnik DevOps,Hamburg,,HH,1748840400000
+Data Scientist,Hamburg,3,4,taod Consulting GmbH,0,0,407a29fed9df7eab,Data Engineer / Scientist (m/w/d),Hamburg,20457,HH,1747198800000
+Data Scientist,Hamburg,3,5,scieneers GmbH,0,0,fe8b069f6c96abb4,Data Scientist / Engineer (m/w/d),Hamburg,20354,HH,1730264400000
+Data Scientist,Hamburg,3,6,The Relevance Group GmbH,0,0,936d8480afe40b35,(Junior) Data Scientist,Hamburg,20354,HH,1746162000000
+Data Scientist,Hamburg,3,7,Highberg DACH,0,0,39f414e3bee61acd,Data Scientist (w/m/d),Hamburg,20457,HH,1696395600000
+Data Scientist,Hamburg,3,8,emetriq GmbH,5,2,959137157970ae8d,Data Scientist (m/w/d),Hamburg,,HH,1747717200000
+Data Scientist,Hamburg,3,9,adjoe GmbH,0,0,a356fe20a5e81957,Senior Data Scientist (f/m/d),Hamburg,20095,HH,1737007200000
+Data Scientist,Hamburg,3,10,Highberg DACH,0,0,d0bacadb54806cec,Praktikum: Data Science (w/m/d),Hamburg,20457,HH,1696395600000
+Data Scientist,Hamburg,3,11,vengine technologies,0,0,c72e9df2752601c6,Machine Learning & Data Engineer (m/w/d),Hamburg,22083,HH,1748408400000
+Data Scientist,Hamburg,3,12,Indivumed GmbH,0,0,c36adb2431770e7a,Clinical Data Manager (m/f/d),Hamburg,20095,HH,1750309200000
+Data Scientist,Hamburg,3,13,arf Gesellschaft für Organisationsentwicklung mbH,0,0,62b3db0d38dab18a,Data Scientist (m/w/d),Hamburg,,HH,1741240800000
+Data Scientist,Hamburg,3,14,scieneers GmbH,0,0,9bae83b48b7c57de,Data Scientist / Engineer mit LLM-Fokus (m/w/d),Hamburg,20354,HH,1730264400000
+Data Scientist,Hamburg,2,0,HDI Deutschland,0,0,4f2a211519ad5e4c,Leiter:in Produkttechnik DevOps,Hamburg,,HH,1748840400000
+Data Scientist,Hamburg,2,1,taod Consulting GmbH,0,0,407a29fed9df7eab,Data Engineer / Scientist (m/w/d),Hamburg,20457,HH,1747198800000
+Data Scientist,Hamburg,2,2,scieneers GmbH,0,0,fe8b069f6c96abb4,Data Scientist / Engineer (m/w/d),Hamburg,20354,HH,1730264400000
+Data Scientist,Hamburg,2,3,The Relevance Group GmbH,0,0,936d8480afe40b35,(Junior) Data Scientist,Hamburg,20354,HH,1746162000000
+Data Scientist,Hamburg,2,4,Highberg DACH,0,0,39f414e3bee61acd,Data Scientist (w/m/d),Hamburg,20457,HH,1696395600000
+Data Scientist,Hamburg,2,5,emetriq GmbH,5,2,959137157970ae8d,Data Scientist (m/w/d),Hamburg,,HH,1747717200000
+Data Scientist,Hamburg,2,6,arf Gesellschaft für Organisationsentwicklung mbH,0,0,62b3db0d38dab18a,Data Scientist (m/w/d),Hamburg,,HH,1741240800000
+Data Scientist,Hamburg,2,7,scieneers GmbH,0,0,9bae83b48b7c57de,Data Scientist / Engineer mit LLM-Fokus (m/w/d),Hamburg,20354,HH,1730264400000
+Data Scientist,Hamburg,2,8,adjoe GmbH,0,0,a356fe20a5e81957,Senior Data Scientist (f/m/d),Hamburg,20095,HH,1737007200000
+Data Scientist,Hamburg,2,9,Highberg DACH,0,0,d0bacadb54806cec,Praktikum: Data Science (w/m/d),Hamburg,20457,HH,1696395600000
+Data Scientist,Hamburg,2,10,vengine technologies,0,0,c72e9df2752601c6,Machine Learning & Data Engineer (m/w/d),Hamburg,22083,HH,1748408400000
+Data Scientist,Hamburg,2,11,Indivumed GmbH,0,0,c36adb2431770e7a,Clinical Data Manager (m/f/d),Hamburg,20095,HH,1750309200000
+Data Scientist,Hamburg,4,0,Siemens,4,11281,eb3ae11a01703485,Senior Data Scientist (w/m/d),Hamburg,,HH,1750136400000
+Data Scientist,Hamburg,4,1,Deloitte GmbH,3.9,13807,2776053131f60f60,Senior Consultant Data/Cloud Analytics / Regulatory (m/w/d),Hamburg,,HH,1747803600000
+Data Scientist,Hamburg,4,2,E.ON Digital Technology GmbH,3.5,822,359ebcc78fd45edc,Senior Data & AI Consultant (f/m/d),Hamburg,20457,HH,1747630800000
+Data Scientist,Hamburg,4,3,HDI Deutschland,0,0,4f2a211519ad5e4c,Leiter:in Produkttechnik DevOps,Hamburg,,HH,1748840400000
+Data Scientist,Hamburg,4,4,taod Consulting GmbH,0,0,407a29fed9df7eab,Data Engineer / Scientist (m/w/d),Hamburg,20457,HH,1747198800000
+Data Scientist,Hamburg,4,5,scieneers GmbH,0,0,fe8b069f6c96abb4,Data Scientist / Engineer (m/w/d),Hamburg,20354,HH,1730264400000
+Data Scientist,Hamburg,4,6,The Relevance Group GmbH,0,0,936d8480afe40b35,(Junior) Data Scientist,Hamburg,20354,HH,1746162000000
+Data Scientist,Hamburg,4,7,Highberg DACH,0,0,39f414e3bee61acd,Data Scientist (w/m/d),Hamburg,20457,HH,1696395600000
+Data Scientist,Hamburg,4,8,emetriq GmbH,5,2,959137157970ae8d,Data Scientist (m/w/d),Hamburg,,HH,1747717200000
+Data Scientist,Hamburg,4,9,adjoe GmbH,0,0,a356fe20a5e81957,Senior Data Scientist (f/m/d),Hamburg,20095,HH,1737007200000
+Data Scientist,Hamburg,4,10,Highberg DACH,0,0,d0bacadb54806cec,Praktikum: Data Science (w/m/d),Hamburg,20457,HH,1696395600000
+Data Scientist,Hamburg,4,11,vengine technologies,0,0,c72e9df2752601c6,Machine Learning & Data Engineer (m/w/d),Hamburg,22083,HH,1748408400000
+Data Scientist,Hamburg,4,12,Indivumed GmbH,0,0,c36adb2431770e7a,Clinical Data Manager (m/f/d),Hamburg,20095,HH,1750309200000
+Data Scientist,Hamburg,4,13,arf Gesellschaft für Organisationsentwicklung mbH,0,0,62b3db0d38dab18a,Data Scientist (m/w/d),Hamburg,,HH,1741240800000
+Data Scientist,Hamburg,4,14,scieneers GmbH,0,0,9bae83b48b7c57de,Data Scientist / Engineer mit LLM-Fokus (m/w/d),Hamburg,20354,HH,1730264400000
