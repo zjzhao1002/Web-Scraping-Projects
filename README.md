@@ -16,3 +16,4 @@ The following websites have been scraped:
 * [arXiv](https://arxiv.org/) (use the RSS feed)
 * [IMDb Top 250 movies](https://www.imdb.com/chart/top/)
 * [Indeed](https://de.indeed.com/)
+* [ICD10Data.com](https://www.icd10data.com/)
