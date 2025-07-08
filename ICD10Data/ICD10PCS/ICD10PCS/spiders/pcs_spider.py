@@ -16,7 +16,7 @@ class PcsSpiderSpider(scrapy.Spider):
 
     def parse(self, response):
         all_codes = response.css("a.identifier")
-        for code in all_codes[:1]:
+        for code in all_codes:
             relative_link = code.attrib['href']
             code_range = code.css("::text").get()
             url = "https://www.icd10data.com/" + relative_link
@@ -29,7 +29,7 @@ class PcsSpiderSpider(scrapy.Spider):
     def parse_catagory(self, response):
         catagory = response.css("h1.pageHeading::text").get()
         all_codes = response.css("a.identifier")
-        for code in all_codes[:1]:
+        for code in all_codes:
             relative_link = code.attrib['href']
             code_range = code.css("::text").get()
             url = "https://www.icd10data.com/" + relative_link
